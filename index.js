@@ -105,3 +105,6 @@ YouTube : https://www.youtube.com/@GlaceYT
 
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 */
+
+require('./keepAlive'); // Render'ın kapanmasını önler
+
